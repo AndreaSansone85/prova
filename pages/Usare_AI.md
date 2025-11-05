@@ -13,7 +13,6 @@ L'AI si può utilizzare per un progetto di ricerca per diverse ragioni e con div
 La mia personale idea è che l'AI si possa usare per fare un _outline_ del lavoro, che però deve poi essere valutato criticamente dopo aver letto un po' di materiale. Questo perché è plausibile che alcune cose sfuggano all'AI, ma allo stesso tempo è verosimile che alcune cose sfuggano all'intelligenza umana. Quindi l'AI può aiutare a non perdere parti importanti del nostro tema di ricerca, ma serve comunque applicare un po' di materia grigia per rendere il lavoro valido da un punto di vista scientifico e accademico.  
 
 Facciamo un esempio: potrei pensare di fare una tesi sugli effetti cardiocircolatori dell'uso di peperoncino (se ve lo state chiedendo: _sì, ci sono articoli pubblicati sul tema_, ad esempio [questo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10078540/)). Facendo richiesta a uno dei tanti LLM, esce una cosa simile a questa:  
-<img width="546" height="501" alt="Screenshot 2025-10-31 at 15 10 08" src="https://github.com/user-attachments/assets/ab41b7ef-07ea-493b-a41b-6133f90c0db9" />
 
 Benissimo! Ci sono un po di cose cui personalmente non avrei pensato (ma del resto non sono un grande esperto di peperoncini, neanche in cucina), come ad esempio i possibili effetti positivi sulla termogenesi (cioè sulla sensazione di calore) come meccanismo di prevenzione cardiovascolare.
 
