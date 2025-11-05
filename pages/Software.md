@@ -1,4 +1,6 @@
-# I software che useremo
+---
+title: I software che useremo
+---
 
 Questa è una lista di software potenzialmente utili. Potete campare benissimo e fare una tesi anche con carta e penna, per capirci, ma questi software vi facilitano la vita, vi tornano utili per conservarvi i vostri documenti e appunti, e potenzialmente vi aiutano a studiare in una maniera che sia più "utile" rispetto a leggere un libro e ripeterlo sostanzialmente a memoria. Il software _aiuta_, non è che fa tutto da solo, eh. 
 
