@@ -1,5 +1,5 @@
 ---
-title: Usare l'AI: sì o no?
+title: Usare AI - sì o no?
 ---
 
 Visto che se l'AI potesse scrivere da sola una tesi valida tutto il resto della presente guida non servirebbe a una mazza, mi sembra giusto che questo sia l'argomento di "apertura".
