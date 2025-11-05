@@ -1,0 +1,14 @@
+# Cosa devo sapere prima di iniziare a scrivere la tesi
+
+## La scelta del relatore
+In ambito accademico, si parla di "relatore" per la tesi per definire il prof che vi aiuterà (_per valori arbitrariamente ampi di "aiutare"_) a fare la vostra tesi. La scelta del relatore dipende da tanti fattori, alcuni dei quali sono oggettivi (l'area di interesse, ad esempio, o le tematiche trattate), mentre altri sono soggettivi (il grado di disponibilità del docente, o l'idea che ve ne siete fatti a lezione).
+
+Tenete in considerazione che chiaramente c'è un certo grado di competizione: oltre all'attività di relatore, un docente deve anche dedicarsi ad altre forme di didattica (lezioni ed esami), deve spesso fare attività di ricerca o di studio individuale (_non penserete che dopo la laurea si smette di studiare, vero?_), e in alcuni casi deve svolgere attività assistenziale.  
+Seguire con la giusta attenzione 50 progetti di tesi contemporaneamente richiede uno sforzo esagerato: per questo, molti docenti mettono un limite alla propria disponibilità a fare da relatori, e selezionano gli studenti più meritevoli in base ad esempio alla media degli esami o al progetto di tesi che lo studente (o la studentessa) propone. 
+
+## La scelta dell'argomento
+Per scrivere una tesi, una volta trovato un docente di riferimento, bisogna decidere **su cosa** fare la tesi. Generalmente, i relatori hanno tutti una loro "macroarea" di pertinenza: alcune università forniscono una sorta di guida, altre lasciano un maggior spazio all'interpretazione. Io personalmente sono della teoria che si lavori meglio a un argomento che piace, quindi immagino che abbiate scelto un relatore che vi permetta di fare una tesi su - appunto - qualcosa che vi interessa. Ma è sempre possibile fare la tesi su qualcosa che vi interessa?
+
+Alcuni professori ascolteranno le vostre idee e vi aiuteranno a sviluppare la vostra tesi. Altri professori preferiscono proporre temi già esplorati o studi già in corso ai loro tesisti. Perché questa differenza? Non c'è un approccio giusto o sbagliato, capiamoci: però è verosimile che un prof abbia accumulato sufficiente esperienza negli anni da poter giudicare quali argomenti sono più interessanti, quali sono più utili o quali sono sostanzialmente troppo difficili, troppo ampi o semplicemente troppo banali. Il che non significa che non siano argomenti interessanti (ad esempio) _nella pratica clinica_. Ad esempio, una tesi sull'associazione fra anoressia e disfunzioni sessuali non è particolarmente originale, ma è una questione clinica molto importante. Quindi una guida da parte del vostro relatore può essere fondamentale.
+
+C'è poi un altro aspetto essenziale. Che tipo di tesi pensate di voler fare? Una tesi compilativa e una tesi sperimentale richiedono tempi diversi, e la burocrazia necessaria può essere un ostacolo non meno importante da valutare. Ma ne parliamo [nel prossimo capitolo](/pages/Tipi_di_tesi.md)...
