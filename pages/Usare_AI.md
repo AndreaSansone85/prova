@@ -1,5 +1,8 @@
-## Posso usare l'AI per la tesi?
- Visto che se l'AI potesse scrivere da sola una tesi valida tutto il resto della presente guida non servirebbe a una mazza, mi sembra giusto che questo sia l'argomento di "apertura".
+---
+title: Usare l'AI: sì o no?
+---
+
+Visto che se l'AI potesse scrivere da sola una tesi valida tutto il resto della presente guida non servirebbe a una mazza, mi sembra giusto che questo sia l'argomento di "apertura".
 
 Se si possa usare l'AI per scrivere parti di una tesi (o comunque per "alleggerire" il compito) è una domanda cui è difficile dare una risposta in poche parole. Quello che segue è una mia personale opinione e non è detto che sia corretta al 100%, anche perché è una cosa che scrivo in questo momento e che non è detto che resterà valida per sempre.
 
