@@ -13,7 +13,7 @@ Nota bene. I software che propongo e in generale l'approccio per la scrittura e 
 
 E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da aiutarti a leggerla nei tuoi tempi e nel modo che preferisci.
 
-1. [Cosa devo sapere prima di iniziare a lavorare alla tesi?](Argomento_Titolo_Tipo.md)
-1. [Posso usare l'AI per aiutarmi a scrivere la tesi?](Usare_AI.md)
-1. [Tipi di tesi](Tipi_di_tesi.md)
+1. [Cosa devo sapere prima di iniziare a lavorare alla tesi?](Argomento_Titolo_Tipo)
+1. [Posso usare l'AI per aiutarmi a scrivere la tesi?](Usare_AI)
+1. [Tipi di tesi](Tipi_di_tesi)
 1. [Di che software avrò bisogno?](Software)
