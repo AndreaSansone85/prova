@@ -26,4 +26,18 @@ A questo punto, potete usare il tastino con la bacchetta magica in alto per aggi
 
 {% include image.html file="Zotero2.png" alt="Zotero" max-width="10" %}
 
+Se vi state chiedendo dove trovate questi codici, ecco qui un rapido esempio. Potete indifferentemente usare uno dei tre.
+
 {% include image.html file="Zotero3.png" alt="Zotero" max-width="10" %}
+
+{% include callout.html type="tip" content="Alternativamente potete usare una cosa che si chiama Zotero Connector, cioè un'estensione del vostro browser che vi consente di importare su Zotero la pagina che avete davanti senza fatica. C'è sicuramente per Chrome/Brave e per Safari, immagino anche per altri browser. Se vi interessa questa cosa cercate autonomamente." %}
+
+
+Zotero a questo punto scaricherà i cosiddetti _metadati_ del paper/libro, e se disponibile anche il PDF. Se non riesce a trovare il PDF, potreste doverlo cercare da soli. Alcuni articoli sono open access, cioè accessibili da chiunque; altri sono invece a pagamento, ma potete cercare di trovarli chiedendo ai vostri prof, collegandovi da una rete universitaria, o cercando negli angoli oscuri di internet tramite alcuni siti che assolutamente dovreste evitare, come Sci-hub e Anna's Archive (di cui vi dico i nomi così che possiate tenervi alla larga dai siti stessi o dai vari bot per Telegram che esistono, o anche dai plug-in che dentro Zotero scaricano direttamente il file PDF).
+
+Bene! una volta che avete scaricato il vostro articolo e il relativo PDF, con un pratico doppio-clic potete leggervelo. 
+
+{% include callout.html type="tip" content="Non mi dilungo qui, ma potete configurare abbastanza facilmente Zotero per condividere su cloud i file che caricate. Fino a un certo numero, potete farlo senza alcun costo; sopra una soglia dovete o trovare una soluzione alternativa (WebDAV, o altri sistemi cloud) oppure potete pagare un abbonamento a Zotero." %}
+
+Leggendo il file, potete sottolinearlo o prendere appunti direttamente nel testo. Potete anche sottolineare qualcosa e poi commentare la parte che avete sottolineato. Questi appunti sono conservati all'interno di Zotero e sono appunto condivisi in cloud: potete quindi ad esempio sottolineare e appuntare le cose dal tablet, cosa che personalmente trovo più facile rispetto a farlo al pc.
+
