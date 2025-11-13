@@ -40,7 +40,7 @@ Bene! una volta che avete scaricato il vostro articolo e il relativo PDF, con un
 {% include callout.html type="tip" content="Non mi dilungo qui, ma potete configurare abbastanza facilmente Zotero per condividere su cloud i file che caricate. Fino a un certo numero, potete farlo senza alcun costo; sopra una soglia dovete o trovare una soluzione alternativa (WebDAV, o altri sistemi cloud) oppure potete pagare un abbonamento a Zotero." %}
 
 Leggendo il file, potete sottolinearlo o prendere appunti direttamente nel testo. Potete anche sottolineare qualcosa e poi commentare la parte che avete sottolineato. Questi appunti sono conservati all'interno di Zotero e sono appunto condivisi in cloud: potete quindi ad esempio sottolineare e appuntare le cose dal tablet, cosa che personalmente trovo più facile rispetto a farlo al pc.  
-Nell'immagine qui sotto vi faccio un esempio: cliccate sull'evidenziatore (segnato con 1), poi evidenziate la frase che vi interessa (segnata con 2) e vi comparirà nella sidebar a sinistra, dove (se volete) potete anche scrivere un commento (segnato con 3). 
+Nell'immagine qui sotto vi faccio un esempio: cliccate sull'evidenziatore (segnato con 1), eventualmente scegliete un altro colore se vi va (2), poi evidenziate la frase che vi interessa (segnata con 3) e vi comparirà nella sidebar a sinistra (4), insieme a tutte le altre cose che avrete evidenziato nel testo. 
 
 {% include image.html file="Zotero4.png" alt="Zotero" max-width="10" %}
 
