@@ -22,6 +22,9 @@ Se non volete usare i software, potete cavarvela benissimo (giuro) con carta e p
 
 {% include callout.html type="important" content="Una nota a margine. Molto di quello che trovate qui di seguito l'ho preso da un flusso di lavoro trovato online, scritto da Alexandra Phelan, ricercatrice americana specializzata in salute globale. Per correttezza, e anche per darvi un qualcosa per eventualmente approfondire ulteriormente, vi lascio qui il [link alla pagina dell'autrice](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd) (in inglese)." %}
 
-## Sistemiamo Obsidian
+## Cos'è Obsidian e perché ci aiuta
+Obsidian è sostanzialmente un editor di testo. In pratica come Word, Pages, quello che usate abitualmente... ma utilizza un formato diverso, che si chiama Markdown. Markdown è 
+
+## Sistemiamo Zotero e Obsidian
 
 
