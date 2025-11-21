@@ -18,6 +18,6 @@ E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da ai
 3. [Tipi di tesi](Tipi_di_tesi)
 4. [Di che software avrò bisogno?](Software)
 5. [Le fonti bibliografiche](Le_fonti)
-6. [Gestire la bibliografia](Gestire_biblio)
-7. [Usare gli appunti](Second_brain)
+6. [Gestire la bibliografia](Usare_biblio)
+7. [Usare gli appunti](Second_Brain)
 8. [Da dove inizio a scrivere](example_page)
