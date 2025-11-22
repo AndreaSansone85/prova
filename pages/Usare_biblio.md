@@ -53,4 +53,4 @@ Quindi prendere appunti durante la lettura di un paper può essere inutile, se l
 
 Qui subentra l'altra parte dei software di cui abbiamo parlato prima. Software come Obsidian, Notion, Bear (ma anche il "banale" Note di Apple) consentono di prendere appunti in maniera più strutturata, aiutandoti a creare una sorta di collegamento fra le cose che studi. Non sono programmi che sostituiscono il tuo cervello o la tua capacità di memorizzazione o di apprendimento, ma ti aiutano a studiare meglio e in maniera più "solida". Sicuramente ci metterai di più rispetto a studiare in altro modo, ma perché non provare?
 
-Proseguiamo oltre, e passiamo appunto a come gestire i nostri appunti di Zotero in maniera più "organica".
+Proseguiamo oltre, e vediamo quindi come gestire i nostri appunti di Zotero in maniera più "organica" [nel prossimo capitolo](Second_Brain).
