@@ -67,5 +67,24 @@ Suggerimento conclusivo: potete anche aggiungere un collegamento alla fonte orig
 
 {% include image.html file="ObsidianGIF5.gif" alt="" max-width="10" %}
 
-
 ## Sistemiamo Zotero e Obsidian
+Se avete seguito fin qui avrete probabilmente capito che il sistema è funzionale, perché crea una "rete" di informazioni connesse tra loro, ma che sostanzialmente può richiedervi più tempo di quanto vorreste. Fortunatamente Zotero e Obsidian possono "parlare" fra di loro, rendendo un po' più snello il lavoro (e, a mio parere, anche risparmiandovi dimenticanze e errori che inevitabilmente potreste fare).
+
+Questa parte è un po' più da "smanettoni" rispetto alla cosa precedente, e riprende a piene mani da quella guida di cui vi avevo scritto sopra scritta da Alexandra Phelan ([link](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd) se volete recuperare senza tornare a cima pagina). Non è essenziale, ma personalmente io la trovo utile, quindi ve la condivido.
+
+Dobbiamo fare un po' di cose, passo dopo passo.
+1. Scarichiamo da [questo link](https://retorque.re/zotero-better-bibtex/installation/) BetterBibTex (BBT), un plugin per Zotero. Se volete sapere a che serve continuate a leggere questo paragrafo, altrimenti saltate direttamente al punto 2. BBT serve a creare automaticamente delle _citekey_, cioè delle "chiavi per la citazione", sostanzialmente. Vi ricordate quando dicevo che potete usare una sorta di vostro "codice" per creare le note bibliografiche? Ecco, questo plugin crea in automatico un codice analogo dentro Zotero, quindi meno rotture di scatole per voi. BBT ha anche un altro uso: quando e se vorrete scrivere delle citazioni dentro una nota di Obsidian (come fareste nella stesura di un testo su Word, per capirci), BBT può prendersi cura di questo.
+2. Installiamo BBT in Zotero: aprite Zotero, cliccate fra i menu su Strumenti, poi su Plugins, cliccate sull'icona a forma di ingranaggio e cliccate su "installa da file XPI". Trovate il file che avete scaricato al punto 1, e andiamo avanti.
+3. Apriamo Obsidian, apriamo le impostazioni (dai menu, oppure su Mac potete fare command + virgola), cliccate sulla tabella "Community plugins". Cliccate su "Turn on community plugins", poi su "Browse", e poi cercate Zotero Integration nella casella e installatelo.
+4. Scaricate il file che vi allego qui e inseritelo nella cartella di Obsidian, meglio ancora in una sottocartella (io l'ho messo nella cartella templates).
+5. Aprite nuovamente le impostazioni di Obsidian, trovate a sinistra la casella con scritto "Zotero integration" e cliccatela. Se l'utility PDF richiede aggiornamento, fatelo (è la prima voce in alto). Poi attivate il tasto " open the created or updated note(s) after import". Poi copiate le impostazioni come nello screenshot seguente (NB: se avete chiamato le vostre cartelle source-notes e templates, come ho fatto io, va bene così; altrimenti, se le avete chiamate in altro modo, correggete con i nomi delle vostre cartelle). 
+{% include image.html file="ObsidianZoteroSettings.png" alt="" max-width="10" %}sce
+6. Fatto! Ora potete usare i comandi rapidi di Obsidian (su mac con CMD+P, su Windows... non ne ho idea...) e scrivete "source-notes". Se avete fatto tutto correttamente (e se non ho sbagliato io qualcosa nello scrivere la guida...), se avete Zotero aperto, dovrebbe comparirvi uno strumento per selezionare un articolo.
+
+In teoria, se tutto è stato fatto correttamente, dovreste vedere qualcosa di molto simile al seguente video:
+{% include image.html file="ObsidianGIF6.gif" alt="" max-width="10" %}
+
+Quindi in pratica il sistema che abbiamo appena tirato su ha lo scopo di importare direttamente dentro una nota Obsidian tutte le informazioni dell'articolo (autore, data, rivista, abstract...) e le cose che avete evidenziato nel PDF. Questo file è completamente a vostra disposizione e potete modificarlo, ad esempio creando delle note a partire da quello che avete pensato... Come nell'esempio seguente.
+{% include image.html file="ObsidianGIF7.gif" alt="" max-width="10" %}
+
+mettendo la frase fra due parentesi quadre abbiamo creato già buttato giù il titolo per una possibile nuova nota, che verrà creata appena ci cliccheremo sopra.
